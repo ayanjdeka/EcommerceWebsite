@@ -1,0 +1,42 @@
+{
+    "Products": [
+        {
+            "id": 1,
+            "name": "Basketball",
+            "price": 2299,
+            "imgName": "basketball.png"
+        },
+        {
+            "id": 2,
+            "name": "Calculator",
+            "price": 8499,
+            "imgName": "calc.png"
+        },
+        {
+            "id": 3,
+            "name": "Fridge",
+            "price": 89999,
+            "imgName": "frid.png"
+        },
+        {
+            "id": 4,
+            "name": "Stereo",
+            "price": 5999,
+            "imgName": "stereo.jpeg"
+        }
+    ],
+    "Clothes": [
+        {
+            "id": 5,
+            "name": "T-Shirt",
+            "price": 2999,
+            "imgName": "shirt.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "Shoes",
+            "price": 18099,
+            "imgName": "shoe.jpeg"
+        }
+    ]
+}
