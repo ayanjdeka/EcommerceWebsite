@@ -1,4 +1,4 @@
-# NobeFa2021-Project
+# EcommerceWebsite
 I worked on a semester-long project programming a functional and secure shopping cart ecommerce
 website. Used the following technologies and tools below:
 - VSCode as the development tool to promote rapid development as its industry standard.
